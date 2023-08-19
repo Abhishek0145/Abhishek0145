@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine learning, Data science, Deep Learning**
 
-- 📫 How to reach me **Abhisheksharmaa1404@gmail.co**
+- 📫 How to reach me **Abhisheksharmaa1404@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
