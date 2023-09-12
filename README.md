@@ -13,12 +13,10 @@
 - ✅ I have done a project named [ML-Price-Prediction-Analysis](https://github.com/Abhishek0145/ML-Price-Prediction-Analysiis)
 
 - 🌱 I’m currently learning **Machine learning algorithms**
-
-- 🔭 I’m currently working on [Linear-Regression-Housing-Prediction](https://github.com/Abhishek0145/Linear-Regression-Housing-Prediction)
+  
+- 🔭 I’m currently working on [Credit Card Fraud Detection](https://github.com/Abhishek0145/Credit_Card_Fraud_Detection)
 
 - 📫 How to reach me **Abhisheksharmaa1404@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
 
 
 ## 🌐 Socials:
@@ -36,11 +34,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishek0145&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
