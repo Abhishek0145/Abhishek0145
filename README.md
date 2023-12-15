@@ -8,16 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-💫 About Me:
-
-- ✅ I have done a project named [ML-Price-Prediction-Analysis](https://github.com/Abhishek0145/ML-Price-Prediction-Analysiis)
-
-- 🌱 I’m currently learning **Machine learning algorithms**
-  
-- 🔭 I’m currently working on [Credit Card Fraud Detection](https://github.com/Abhishek0145/Credit_Card_Fraud_Detection)
-
-- 📫 How to reach me **Abhisheksharmaa1404@gmail.com**
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/The_guy_you_loves) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksharma07817988677) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhibhardwaj140) 
