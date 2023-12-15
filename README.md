@@ -3,12 +3,6 @@
 <h3 align="center">A passionate Machine learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://i.gifer.com/OyGx.gif>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0145&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0145" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/The_guy_you_loves) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksharma07817988677) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhibhardwaj140) 
 
