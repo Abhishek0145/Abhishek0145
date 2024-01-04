@@ -1,4 +1,4 @@
-if[![MasterHead](https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/w_1920,c_limit/1CFAeP1I6qiU-ZMb-O4xyOA.gif)]
+[![MasterHead](https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/w_1920,c_limit/1CFAeP1I6qiU-ZMb-O4xyOA.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate Machine learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://i.gifer.com/OyGx.gif>
